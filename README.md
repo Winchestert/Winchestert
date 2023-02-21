@@ -10,7 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Winchestert&show_icons=true" />
 </picture>
 
-<a href="https://github.com/Winchestert/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winchestert&layout=compact&theme=great-gatsby_border=true" />
+<a href="https://github.com/Winchestert/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winchestert&layout=true&theme=great-gatsby_border=true"  media="(prefers-color-scheme: dark)" />
+
 </a> 
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
