@@ -9,7 +9,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Winchestert&show_icons=true" />
 </picture>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Winchestert&theme=great-gatsby" />
 </a>
 
